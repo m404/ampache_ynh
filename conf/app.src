@@ -1,5 +1,5 @@
 SOURCE_URL=https://github.com/ampache/ampache/archive/develop.tar.gz
-SOURCE_SUM=c7e255a224945cac2973a7db82bcd1f7a1ded329e83adf8f5360c2dd53262c04
+SOURCE_SUM=c275b22e1edb8462a665f2d0d8b8188af670f09da87c9295c5a1af28315df7e5
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
